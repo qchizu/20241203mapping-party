@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "調査範囲",
+        "_color": "#ff0000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ffffff",
+        "_fillOpacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              141.150627,
+              39.703786
+            ],
+            [
+              141.143889,
+              39.705305
+            ],
+            [
+              141.142216,
+              39.69847
+            ],
+            [
+              141.152172,
+              39.694805
+            ],
+            [
+              141.159081,
+              39.699725
+            ],
+            [
+              141.150627,
+              39.703786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "テスト",
+        "項目名です": "値です",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.144834,
+          39.701838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "テスト２",
+        "項目名です": "値です。",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/809.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.148567,
+          39.701838
+        ]
+      }
+    }
+  ]
+}
