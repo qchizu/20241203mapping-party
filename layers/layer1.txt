@@ -1,0 +1,69 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "20241203mapping-party-team1",
+      "title": "チーム1",
+      "iconUrl": "",
+      "url": "https://raw.githubusercontent.com/qchizu/fukuoka-coastline/refs/heads/main/data/1900.geojson",
+      "subdomains": "",
+      "attribution": "チーム１",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "説明書き"
+    },
+    {
+      "type": "Layer",
+      "id": "20241203mapping-party-team2",
+      "title": "チーム2",
+      "iconUrl": "",
+      "url": "https://raw.githubusercontent.com/qchizu/fukuoka-coastline/refs/heads/main/data/1900.geojson",
+      "subdomains": "",
+      "attribution": "チーム２",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "説明書き"
+    },
+    {
+      "type": "Layer",
+      "id": "20241203mapping-party-team3",
+      "title": "チーム3",
+      "iconUrl": "",
+      "url": "https://raw.githubusercontent.com/qchizu/fukuoka-coastline/refs/heads/main/data/1900.geojson",
+      "subdomains": "",
+      "attribution": "チーム３",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "説明書き"
+    },
+    {
+      "type": "Layer",
+      "id": "20241203mapping-party-team4",
+      "title": "チーム4",
+      "iconUrl": "",
+      "url": "https://raw.githubusercontent.com/qchizu/fukuoka-coastline/refs/heads/main/data/1900.geojson",
+      "subdomains": "",
+      "attribution": "チーム４",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "説明書き"
+    },
+    {
+      "type": "Layer",
+      "id": "20241203mapping-party-team5",
+      "title": "チーム5",
+      "iconUrl": "",
+      "url": "https://raw.githubusercontent.com/qchizu/fukuoka-coastline/refs/heads/main/data/1900.geojson",
+      "subdomains": "",
+      "attribution": "チーム５",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": "説明書き"
+    }
+  ]
+}
