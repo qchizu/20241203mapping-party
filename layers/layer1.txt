@@ -16,15 +16,15 @@
     {
       "type": "Layer",
       "id": "20241203mapping-party-team2",
-      "title": "チーム2",
+      "title": "LiRiO 研修者用便利マップ",
       "iconUrl": "",
-      "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/test.geojson",
+      "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/team2.geojson",
       "subdomains": "",
       "attribution": "チーム２",
       "errorTileUrl": "",
       "cocotile": false,
       "legendUrl": "",
-      "html": "説明書き"
+      "html": "岩手県は盛岡の中央通りにある研修施設LiRiOでの研修を企画する人や、研修に参加する方が困ったときに使える便利情報が一枚の地図にまとまりました！ポストイット売り場から二次会会場まで、有意義なLiRiO研修にお使いください。"
     },
     {
       "type": "Layer",
