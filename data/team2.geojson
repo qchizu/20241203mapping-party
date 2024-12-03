@@ -1,0 +1,568 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブンイレブン",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/004.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147904,
+          39.700865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブンイレブン",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/004.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147135,
+          39.702372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "コジマ電機",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/013.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.131058,
+          39.699917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "まねきねこ",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/135.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147847,
+          39.702974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "サンシャイン横丁",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/012.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147948,
+          39.70302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ながまち梅の湯",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/006.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.139348,
+          39.706092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KANAN SPA",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/006.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.157368,
+          39.699517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ガストロ スケゴロウ",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/012.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147618,
+          39.702749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "佐川急便",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/127.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147799,
+          39.702775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ハローサイクリング",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/016.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.142089,
+          39.703005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "盛岡大通郵便局",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/045.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.14338,
+          39.70244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ホテルロイヤル盛岡",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/037.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.146874,
+          39.701515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LiRiO",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/317.png",
+        "_iconSize": [
+          40,
+          40
+        ],
+        "_iconAnchor": [
+          20,
+          20
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147319,
+          39.702328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "川徳（LOFT有）",
+        "description": "文房具、小家電、洋服、コスメなんでも揃っている<br>\n営業時間：10:00-19:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/013.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.146954,
+          39.700726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "柳家",
+        "description": "おすすめはキムチ納豆ラーメン<br>\n営業時間：11:00-3:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/012.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.146826,
+          39.702372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "盛岡商店",
+        "description": "盛岡名物を食べられる居酒屋<br>\n営業時間：17:00-3:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/012.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.146428,
+          39.703406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "盛岡屋",
+        "description": "東北料理が食べられる居酒屋<br>\n営業時間：17:00-0:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/012.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.146492,
+          39.703368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "盛岡じゃじゃ麵あきを",
+        "description": "盛岡じゃじゃ麺を食べられる飲食店<br>\n営業時間：11:00-最大1:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/012.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.146421,
+          39.703328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ツルハドラッグ",
+        "description": "営業時間：8:00-22:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/128.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.146674,
+          39.703233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミスタードーナツ",
+        "description": "営業時間：10:00-22:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/011.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147387,
+          39.703051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ビッグエコー",
+        "description": "営業時間：10:00-5:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/135.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147417,
+          39.702831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DAISO",
+        "description": "営業時間：9:30-21:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/013.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.149109,
+          39.702333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "盛岡共同文具",
+        "description": "文房具が揃っているお店\n営業時間：10:00-18:00",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/013.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147508,
+          39.702786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "石割桜",
+        "description": "桜の季節限定　集合写真撮影ポイント",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/180.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.151219,
+          39.703796
+        ]
+      }
+    }
+  ]
+}
