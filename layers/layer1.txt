@@ -42,7 +42,7 @@
     {
       "type": "Layer",
       "id": "20241203mapping-party-team4",
-      "title": "チーム4",
+      "title": "岩手公園のバリアフリールート",
       "iconUrl": "",
       "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/team04.geojson",
       "subdomains": "",
