@@ -31,7 +31,7 @@
       "id": "20241203mapping-party-team3",
       "title": "チーム3",
       "iconUrl": "",
-      "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/test.geojson",
+      "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/team03.geojson",
       "subdomains": "",
       "attribution": "チーム３",
       "errorTileUrl": "",
