@@ -3,15 +3,15 @@
     {
       "type": "Layer",
       "id": "20241203mapping-party-team1",
-      "title": "チーム1",
+      "title": "一般利用が可能そうなトイレ",
       "iconUrl": "",
-      "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/test.geojson",
+      "url": "https://raw.githubusercontent.com/himagone/20241203mapping-party/refs/heads/main/team1.geojson",
       "subdomains": "",
       "attribution": "チーム１",
       "errorTileUrl": "",
       "cocotile": false,
       "legendUrl": "",
-      "html": "説明書き"
+      "html": "2024年12月3日調査"
     },
     {
       "type": "Layer",
