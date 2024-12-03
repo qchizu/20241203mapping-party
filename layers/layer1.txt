@@ -51,19 +51,6 @@
       "cocotile": false,
       "legendUrl": "",
       "html": "説明書き"
-    },
-    {
-      "type": "Layer",
-      "id": "20241203mapping-party-team5",
-      "title": "チーム5",
-      "iconUrl": "",
-      "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/test.geojson",
-      "subdomains": "",
-      "attribution": "チーム５",
-      "errorTileUrl": "",
-      "cocotile": false,
-      "legendUrl": "",
-      "html": "説明書き"
     }
   ]
 }
