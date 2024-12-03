@@ -17,7 +17,7 @@
       "type": "Layer",
       "id": "20241203mapping-party-team2",
       "title": "LiRiO 研修者用便利マップ",
-      "iconUrl": "",
+      "iconUrl": "https://github.com/qchizu/20241203mapping-party/blob/main/photos/team03/LiRiO-icon.jpg?raw=true",
       "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/team2.geojson",
       "subdomains": "",
       "attribution": "チーム２",
