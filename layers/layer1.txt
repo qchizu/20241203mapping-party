@@ -29,7 +29,7 @@
     {
       "type": "Layer",
       "id": "20241203mapping-party-team3",
-      "title": "チーム3",
+      "title": "チーム3 - 水たまりマップ",
       "iconUrl": "",
       "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/team03.geojson",
       "subdomains": "",
@@ -37,7 +37,7 @@
       "errorTileUrl": "",
       "cocotile": false,
       "legendUrl": "",
-      "html": "説明書き"
+      "html": "盛岡市菜園周辺の道にできている水たまりを2024/12/03に軽く調査しました。"
     },
     {
       "type": "Layer",
