@@ -5,7 +5,7 @@
       "id": "20241203mapping-party-team1",
       "title": "一般利用が可能そうなトイレ",
       "iconUrl": "",
-      "url": "https://raw.githubusercontent.com/himagone/20241203mapping-party/refs/heads/main/team1.geojson",
+      "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/team1.geojson",
       "subdomains": "",
       "attribution": "チーム１",
       "errorTileUrl": "",
